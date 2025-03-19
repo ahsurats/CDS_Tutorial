@@ -1,18 +1,20 @@
 # CDS_Tutorial
-CDS Views Tutorial
+
+Welcome to the CDS View Tutorial repository! This tutorial is designed to help SAP developers understand and implement Core Data Services (CDS) Views in an SAP S/4HANA environment.
+
 📌 About the Repository
 
 This repository contains:
 
-Step-by-step CDS View development guide
+- Step-by-step CDS View development guide
 
-Example codes with explanations
+- Example codes with explanations
 
-Hands-on exercises for practice
+- Hands-on exercises for practice
 
-Best practices and performance tuning tips
+- Best practices and performance tuning tips
 
-🛠 Prerequisites
+# 🛠 Prerequisites
 
 Before starting, ensure you have:
 
@@ -22,88 +24,88 @@ ABAP Development Tools (ADT) in Eclipse
 
 Basic understanding of ABAP and SQL
 
-📚 Topics Covered
+# 📚 Topics Covered
 
-Introduction to CDS Views
+1. Introduction to CDS Views
 
-What are CDS Views?
+- What are CDS Views?
 
-Benefits of CDS Views
+- Benefits of CDS Views
 
-Comparison with Classical ABAP Views
+- Comparison with Classical ABAP Views
 
-Types of CDS Views
+2. Types of CDS Views
 
-Basic Views
+- Basic Views
 
-Composite Views
+- Composite Views
 
-Consumption Views
+- Consumption Views
 
-Annotations and Their Uses
+3. Annotations and Their Uses
 
 UI Annotations
 
-OData Annotations
+- OData Annotations
 
-Analytics Annotations
+- Analytics Annotations
 
-Authorization Annotations
+- Authorization Annotations
 
-Joins and Associations in CDS
+4. Joins and Associations in CDS
 
-Inner and Outer Joins
+- Inner and Outer Joins
 
-Association Concept
+- Association Concept
 
-Path Expressions
+- Path Expressions
 
-Aggregation and Calculated Fields
+5. Aggregation and Calculated Fields
 
-Defining Aggregations in CDS
+- Defining Aggregations in CDS
 
-CASE Statements in CDS
+- CASE Statements in CDS
 
-Using Functions like SUM, AVG, MIN, MAX
+- Using Functions like SUM, AVG, MIN, MAX
 
-CDS Views with Parameters
+6. CDS Views with Parameters
 
-Creating Parameterized CDS Views
+- Creating Parameterized CDS Views
 
-Using Parameters in Queries
+- Using Parameters in Queries
 
-Best Practices for Parameter Handling
+- Best Practices for Parameter Handling
 
-Access Control in CDS Views
+7. Access Control in CDS Views
 
-Role-Based Access Control (RBAC)
+- Role-Based Access Control (RBAC)
 
-Defining Authorization Objects
+- Defining Authorization Objects
 
-Implementing Restriction Filters
+- Implementing Restriction Filters
 
-Performance Optimization Techniques
+8. Performance Optimization Techniques
 
-SQL Performance Best Practices
+- SQL Performance Best Practices
 
-Indexing and Buffering
+- Indexing and Buffering
 
-Avoiding Common Pitfalls
+- Avoiding Common Pitfalls
 
-Exposing CDS Views as OData Services
+9. Exposing CDS Views as OData Services
 
-Steps to Create OData Services
+- Steps to Create OData Services
 
-Using @OData.publish Annotation
+- Using @OData.publish Annotation
 
-Testing OData Services in SAP Gateway
+- Testing OData Services in SAP Gateway
 
-Advanced CDS Concepts
+10. Advanced CDS Concepts
 
-Table Functions
+- Table Functions
 
-AMDP in CDS
+- AMDP in CDS
 
-Using CDS Views in Fiori Apps
+- Using CDS Views in Fiori Apps
 
-Analytical and Hierarchical CDS Views
+- Analytical and Hierarchical CDS Views
